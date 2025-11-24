@@ -7,7 +7,7 @@
 //#define LEVEL_COUNT 4
 
 int main(){
-    const size_t LEVEL_COUNT = 4;
+    const int LEVEL_COUNT = 4;
     int enemies[LEVEL_COUNT];
     float levelDifficulty[] = {1.0, 3.5, 6.0, 10.5};
 
